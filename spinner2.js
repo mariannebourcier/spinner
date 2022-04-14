@@ -8,5 +8,5 @@ for (let char of sentence) {
   speed += 200;
 }
 
-
+//compared code with @MattiasWengel
 // |/-\|/-\|
